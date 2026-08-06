@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "image": "caprover/caprover-static:latest"
+  "template": "dockerfile"
 }
