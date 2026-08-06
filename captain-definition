@@ -1,4 +1,7 @@
 {
   "schemaVersion": 2,
-  "template": "dockerfile"
+  "dockerfileLines": [
+    "FROM nginx:alpine",
+    "COPY . /usr/share/nginx/html"
+  ]
 }
